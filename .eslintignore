@@ -1,8 +1,9 @@
 /node_modules/*
 lib/*
 seeders/*
-server/test/*
-client/static-frontend/*
+server/test/**
+static-frontend/**
+scss/*
 webpack.config.dev.js
 webpack.config.prod.js
 server/index.js
